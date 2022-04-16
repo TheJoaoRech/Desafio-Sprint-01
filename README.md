@@ -17,7 +17,7 @@
 <p>O product owner é uma das funções mais importantes no método scrum, sua função consiste em definir quais serão as funcionalidades que serão implantadas no projeto, cuidar da parte financeira, ajustar o tamanho das sprints e decidir quais sãos as datas de entrega da ferramenta.</p>
 
 **5 - Qual o comando para criação de um novo repositório no Git?** <br>
-<p> O comando para realizar a criação de um novo repositório no git é o: `“git init”´. </p>
+<p> O comando para realizar a criação de um novo repositório no git é o: `git init´. </p>
 
 
 **6 - O que é o HTTP?** <br>
