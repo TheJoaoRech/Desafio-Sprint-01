@@ -1,4 +1,4 @@
-<h1 align="center"> PB-node.js_mar.22 :: Desafio sprint#01 </h1>
+<h1 align="center"> PB-node.js_mar.22 : Desafio Sprint #01 </h1>
 
 **1 - Para que serve o método Scrum?** <br>
 	<p>O scrum é conhecido por ser um método ágil que pode ser utilizado nos mais diversos tipos de projetos, com sua aplicação, é possível tornar o planejamento mais eficiente e organizado.</p> 
@@ -87,4 +87,4 @@
 5xx Erro do servidor: (Informa que o erro aconteceu do lado do servidor.).</p>
   
 **24 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:** <br>
-  
+  <p>Até o momento atual minha experiência com o programa de bolsa @node.js_mar22 foi muito boa, compartilhar e aprender novas experiências é algo notável no decorrer do projeto, dificuldades são superadas diariamente e o foco é sempre o aprendizado.</p>
