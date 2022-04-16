@@ -81,11 +81,11 @@
 	<p>As vantagens que o MongoDB oferece em relação a outros gerenciadores de banco de dados, são que nele, se torna possível manipular uma alta quantidade de dados, gerenciando-os de forma mais fácil além da economia que o NoSql traz, já que os servidores de armazenamento para essa categoria são consideravelmente mais baratos.</p>
   
 **23 - Exemplifique para que serve os métodos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!** <br>
-<p>1xx informativa: (É responsável por informar o cliente que a solicitação está em andamento.); 
-2xx Sucesso: (Sua função é dizer para o cliente que a operação foi bem-sucedida.);
-3xx Redirecionamento: (Mostra que a solicitação do servidor foi recebida, mas um redirecionamento será realizado.);
-4xx Erro de cliente: (Indicam um erro do lado do cliente.);
-5xx Erro do servidor: (Informa que o erro aconteceu do lado do servidor.).</p>
+<p>1xx informativa: (É responsável por informar o cliente que a solicitação está em andamento.);</p> 
+<p>2xx Sucesso: (Sua função é dizer para o cliente que a operação foi bem-sucedida.);</p>
+<p>3xx Redirecionamento: (Mostra que a solicitação do servidor foi recebida, mas um redirecionamento será realizado.);</p>
+<p>4xx Erro de cliente: (Indicam um erro do lado do cliente.);</p>
+<p>5xx Erro do servidor: (Informa que o erro aconteceu do lado do servidor.).</p>
   
 **24 - Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:** <br>
   <p>Até o momento atual minha experiência com o programa de bolsa @node.js_mar22 foi muito boa, compartilhar e aprender novas experiências é algo notável no decorrer do projeto, dificuldades são superadas diariamente e o foco é sempre o aprendizado.</p>
