@@ -59,10 +59,10 @@ Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem cont
 	Os status code que podem ser utilizados para realizar o delete são: “200 (ok)”, “202 (Accepted)” e “204 (No content)”.
   
 **18 - Qual a extensão ".xxx" contêm as definições da tabela?** 
-( ) Commands.myi;
-( ) Commands.frm;
-(X) Commands.myd;
-( ) {mysqlDirectory}/data. 
+[]Commands.myi;
+[] Commands.frm;
+[X] Commands.myd;
+[] {mysqlDirectory}/data. 
   
 **19 - A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados?** 
 ( ) /{database_name_folder}/{database_tables_and_files};
