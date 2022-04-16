@@ -1,5 +1,5 @@
 <h1 align="center"> PB-node.js_mar.22 : Desafio Sprint #01 </h1>
-
+<h1 align="center"> Nome do criador: João Vítor de Oliveir Rech </h1>
 **1 - Para que serve o método Scrum?** <br>
 	<p>O scrum é conhecido por ser um método ágil que pode ser utilizado nos mais diversos tipos de projetos, com sua aplicação, é possível tornar o planejamento mais eficiente e organizado.</p> 
 <p>Geralmente, os desenvolvedores de softwares, são os que mais optam por utilizar o scrum, isso acontece porque ele garante um ambiente de transparência maior entre o time de desenvolvimento e o cliente que contratou o serviço.</p>
