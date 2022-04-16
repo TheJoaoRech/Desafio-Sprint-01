@@ -71,7 +71,9 @@ Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem cont
 - [ ] C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery.
   
 **20 - Qual a extensão ".xxx" que contêm os dados da tabela?** <br>
-A extensão que contêm os dados da tabela é “. ARZ.”.
+A extensão que contêm os dados da tabela é <span
+style="background: #1abc9c; border-radius:5px; padding:5px">
+“. ARZ.”</span>.
 
 **21 - Qual comando é utilizado para extração de arquivos em MongoDB durante a instalação?** <br>
 	Para extrair arquivos em MongoDB é utilizado o comando “mongoexport”.
