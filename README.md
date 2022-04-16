@@ -1,46 +1,46 @@
 <h1 align="center"> PB-node.js_mar.22 :: Desafio sprint#01 </h1>
 
-1 - Para que serve o método Scrum? 
+**1 - Para que serve o método Scrum?**
 	O scrum é conhecido por ser um método ágil que pode ser utilizado nos mais diversos tipos de projetos, com sua aplicação, é possível tornar o planejamento mais eficiente e organizado. 
 Geralmente, os desenvolvedores de softwares, são os que mais optam por utilizar o scrum, isso acontece porque ele garante um ambiente de transparência maior entre o time de desenvolvimento e o cliente que contratou o serviço.
 
-2 - Como funciona o método Scrum? 
+**2 - Como funciona o método Scrum?** 
 	O método scrum funciona baseado em um conjunto de práticas pré-estabelecidas antes do inicio do projeto, essas funcionalidades são conhecidas como os 12 princípios ágeis.
 	Sua execução acontece em blocos curtos, chamados de sprints, essa duração é definida pela equipe no começo do projeto e pode variar de 2 a 4 semanas, sua função é entregar ao cliente uma amostra de como vai o projeto, para que assim, o seu feedback seja ouvido e melhorias possam ser implantadas. Além disso, uma lista de objetivos é enviada do contratante para os desenvolvedores, ela contém quais são as funcionalidades que devem ser implantadas primeiro, a partir dali pode-se começar o desenvolvimento da ferramenta solicitada.
 	Todo esse conjunto de regras não poderia ser executado da forma correta se não houvesse uma organização hierárquica dentro do projeto, ou seja, existem três funções principais, elas são: O Scrum Master, que é o líder da equipe, ou seja ele organiza qual rumo o projeto deve tomar e como a equipe vai se comportar. O Product Owner, que é quem prioriza quais funcionalidades devem ser aplicadas e quais as expectativas daquele produto. E por fim, o Scrum Teams, que são os responsáveis pelo desenvolvimento da ferramenta, programando e corrigindo erros.
   
-3 - O que é Git? 
+**3 - O que é Git?**
 O Git é uma das principais ferramentas utilizadas em colaboração com o GitHub, sua função é controlar o histórico de alterações de um projeto, quando sua utilização é realizada, uma equipe de desenvolvimento pode em conjunto, alterar o código-fonte de um software e registrar quais mudanças foram realizadas. Essas mudanças acontecem simultaneamente, já que o git oferece a ramificações de recursos, ou seja, cada desenvolvedor conta com uma versão 	isolada do projeto, assim podendo alterar o código principal sem conflitos.
 
- 4 - O que é um scrum Product Owner? 
+ **4 - O que é um scrum Product Owner?**
 O product owner é uma das funções mais importantes no método scrum, sua função consiste em definir quais serão as funcionalidades que serão implantadas no projeto, cuidar da parte financeira, ajustar o tamanho das sprints e decidir quais sãos as datas de entrega da ferramenta.
 
-5 - Qual o comando para criação de um novo repositório no Git?
+**5 - Qual o comando para criação de um novo repositório no Git?**
 O comando para realizar a criação de um novo repositório no git é o: “git init”.
 
 
-6 - O que é o HTTP? 
+**6 - O que é o HTTP?** 
 	O HTTP é um dos mais famosos protocolos de comunicação existentes, seu significado é Hypertext Transfer Protocol (Protocolo de Transferência de Hipertexto), ele é o responsável por criar um conjunto de regras entre dois sistemas computacionais.
   
-7 - Como funciona o HTTP? 
+**7 - Como funciona o HTTP?**
 	O HTTP funciona entre clientes e servidores, ou seja, o cliente manda uma mensagem para o servidor e o mesmo devolve essa mensagem com uma resposta que contém um conteúdo. Essa devolução do servidor é interpretada pelo navegador e exibida na tela do cliente, esse método faz parte de uma camada de aplicação, e comumente ele atua junto com o protocolo TCP/IP (Transmission Control Protocol).
   
-8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+**8 - Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?** 
 	O comando usado para propor mudanças é o “git add”.
   
-9 - O que é a Branch master e para que serve? 
+**9 - O que é a Branch master e para que serve?** 
 	O branch é uma ramificação do projeto principal, quando ele é utilizado é possível realizar alterações na estrutura do projeto sem alterar o código principal, essa prática é comumente usada em projetos com uma equipe de desenvolvimento grande, para que cada integrante consiga implantar suas ideias sem interferir na de seus colegas.
   
-10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+**10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?** 
 	Para atualizar o repositório local a uma nova versão, o comando que deve ser utilizado é o “git pull”, já para fazer merge de um branch para outro é necessário usar o comando “git merge <branch>”.
   
-11 - Pensando em bases de dados, sendo elas, relacionais (SQL) e não relacionais (NoSQL). Quais alternativas abaixo estão corretas? 
+**11 - Pensando em bases de dados, sendo elas, relacionais (SQL) e não relacionais (NoSQL). Quais alternativas abaixo estão corretas?**
 ()   MySQL = MongoDB;
 ( )  PostgreSQL = Redis; 
 ( ) Oracle = CouchDB; 
 (X) Todas as alternativas estão corretas.
   
-12 - O que é MongoDB? 
+**12 - O que é MongoDB?** 
 O MongoDB é um conceito novo de banco de dados, ele possui um código aberto, e é projetado para armazenar grandes quantidades de dados, sua caracterização é de NoSql, ou seja, a recuperação de dados não é feita no formato de tabelas, além disso, é possível utilizar ele nas mais diversas linguagens de programação. 
   
 13 - O que é o MySQL? 
