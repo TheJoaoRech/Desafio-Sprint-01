@@ -59,7 +59,7 @@ Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem cont
 	Os status code que podem ser utilizados para realizar o delete são: “200 (ok)”, “202 (Accepted)” e “204 (No content)”.
   
 **18 - Qual a extensão ".xxx" contêm as definições da tabela?** 
-- [ ]Commands.myi;
+- [ ] Commands.myi;
 - [ ] Commands.frm;
 - [X] Commands.myd;
 - [ ] {mysqlDirectory}/data. 
