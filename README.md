@@ -35,10 +35,10 @@ O comando para realizar a criação de um novo repositório no git é o: “git 
 	Para atualizar o repositório local a uma nova versão, o comando que deve ser utilizado é o “git pull”, já para fazer merge de um branch para outro é necessário usar o comando “git merge <branch>”.
   
 **11 - Pensando em bases de dados, sendo elas, relacionais (SQL) e não relacionais (NoSQL). Quais alternativas abaixo estão corretas?**
-()   MySQL = MongoDB;
-( )  PostgreSQL = Redis; 
-( ) Oracle = CouchDB; 
-(X) Todas as alternativas estão corretas.
+- [] MySQL = MongoDB;
+- [] PostgreSQL = Redis; 
+- [] Oracle = CouchDB; 
+- [X] Todas as alternativas estão corretas.
   
 **12 - O que é MongoDB?** 
 O MongoDB é um conceito novo de banco de dados, ele possui um código aberto, e é projetado para armazenar grandes quantidades de dados, sua caracterização é de NoSql, ou seja, a recuperação de dados não é feita no formato de tabelas, além disso, é possível utilizar ele nas mais diversas linguagens de programação. 
@@ -65,10 +65,10 @@ Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem cont
 - [] {mysqlDirectory}/data. 
   
 **19 - A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados?** 
-( ) /{database_name_folder}/{database_tables_and_files};
-( ) C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm;
-(X) C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd; 
-( ) C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery.
+- [] /{database_name_folder}/{database_tables_and_files};
+- [] C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm;
+- [X] C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd; 
+- [] C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery.
   
 **20 - Qual a extensão ".xxx" que contêm os dados da tabela?** 
 A extensão que contêm os dados da tabela é “. ARZ.”.
