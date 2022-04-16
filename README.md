@@ -29,7 +29,7 @@
 	<p>O comando usado para propor mudanças é o “git add”.</p></p>
   
 **9 - O que é a Branch master e para que serve?** <br> 
-	<</p>p>O branch é uma ramificação do projeto principal, quando ele é utilizado é possível realizar alterações na estrutura do projeto sem alterar o código principal, essa prática é comumente usada em projetos com uma equipe de desenvolvimento grande, para que cada integrante consiga implantar suas ideias sem interferir na de seus colegas.</p>
+	<p> O branch é uma ramificação do projeto principal, quando ele é utilizado é possível realizar alterações na estrutura do projeto sem alterar o código principal, essa prática é comumente usada em projetos com uma equipe de desenvolvimento grande, para que cada integrante consiga implantar suas ideias sem interferir na de seus colegas.</p>
   
 **10 - Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?** <br>
 	<p>Para atualizar o repositório local a uma nova versão, o comando que deve ser utilizado é o “git pull”, já para fazer merge de um branch para outro é necessário usar o comando “git merge <branch>”.</p>
@@ -47,7 +47,7 @@
 <p>O MySQL é um sistema de gerenciamento de banco de dados, ele possui seu código aberto, mas diferente do MongoDB sua caracterização é de SQL, ou seja, a linguagem utilizada é exclusiva e única, além disso ele foi desenvolvida para trabalhar com projetos de pequeno e médio porte.</p>
   
 **14 - Qual a diferença entre git e github?** <br>
-<</p>p>Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem controla a versão do código que vai ser distribuída, ou seja, ele é quem gerencia o projeto permitindo que mudanças sejam feitas, já o github é uma plataforma para armazenar os códigos realizados e mostrá-los para o público.</p>
+<p>Ambas as ferramentas são utilizadas em conjunto, entretanto, o git é quem controla a versão do código que vai ser distribuída, ou seja, ele é quem gerencia o projeto permitindo que mudanças sejam feitas, já o github é uma plataforma para armazenar os códigos realizados e mostrá-los para o público.</p>
   
 **15 - Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles.** <br>
 	<p>Para se substituir um recurso do servidor, pode-se utilizar dois verbos, o primeiro é o “PUT”, ele é o responsável por alterar um dado completo, já o “PATCH” é usado para alterar um dado parcial.</p>
